@@ -1,0 +1,16 @@
+Feature,Description,Data_Type
+Energy_kWh,Hourly electricity energy consumption (target),float64
+Hour,Hour of the day (0-23),int32
+Day,Day of the month (1-31),int32
+DayOfWeek,"Day of the week (Monday=0, Sunday=6)",int32
+Month,Month of the year (1-12),int32
+Year,Calendar year,int32
+WeekNumber,ISO week number (1-53),int64
+Weekend_Indicator,"1 for Saturday/Sunday, otherwise 0",int64
+Previous_Hour_Consumption,Energy consumption one hour earlier,float64
+Previous_Day_Consumption,Energy consumption at the same hour one day earlier,float64
+Previous_Week_Consumption,Energy consumption at the same hour seven days earlier,float64
+Rolling_Average_24H,Mean energy of the previous 24 hourly observations,float64
+Rolling_Average_7D,Mean energy of the previous 168 hourly observations,float64
+Daily_Average_Consumption,Average hourly energy of the previous complete day,float64
+Monthly_Average_Consumption,Mean daily energy across complete 24-hour days in the previous calendar month,float64

@@ -1,0 +1,11 @@
+Feature,Data Type,Non-Null Count,Missing Count,Unique Values
+Date,str,2075259,0,1442
+Time,str,2075259,0,1440
+Global_active_power,float64,2049280,25979,4186
+Global_reactive_power,float64,2049280,25979,532
+Voltage,float64,2049280,25979,2837
+Global_intensity,float64,2049280,25979,221
+Sub_metering_1,float64,2049280,25979,88
+Sub_metering_2,float64,2049280,25979,81
+Sub_metering_3,float64,2049280,25979,32
+DateTime,datetime64[us],2075259,0,2075259

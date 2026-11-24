@@ -1,0 +1,9 @@
+Category,Recommendation
+Households,"Monitor electricity use around 20:00, the highest average consumption hour. Avoid operating multiple high-power appliances simultaneously during high-demand periods."
+Households,"Switch off unused lights and appliances, use energy-efficient equipment, and avoid unnecessary standby power consumption."
+Households,"Use washing machines, water heaters and other high-energy appliances efficiently. Where practical, shift flexible usage away from predicted peak hours."
+Businesses,Schedule flexible industrial and commercial loads outside forecast high-demand periods whenever operationally possible.
+Businesses,"Monitor equipment energy consumption, improve maintenance, use efficient lighting and optimize heating, ventilation and air-conditioning systems."
+Electricity Providers,"Use hourly and daily demand forecasts to plan electricity generation, distribution and reserve capacity."
+Electricity Providers,Monitor predicted peak-demand hours and prepare appropriate load-management measures to reduce the risk of overloading.
+Electricity Providers,"Use historical weekly, monthly and seasonal patterns to support maintenance scheduling, demand response and long-term energy planning."

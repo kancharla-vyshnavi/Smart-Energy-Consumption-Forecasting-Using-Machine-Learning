@@ -1,0 +1,2 @@
+Best_Model,Next_Hour_Energy_kWh,Next_Day_Energy_kWh,Next_7_Days_Energy_kWh,Historical_Peak_Threshold_kWh,Predicted_High_Demand_Hours
+XGBoost,1.370267391204834,35.3905733525753,228.34287536144257,2.2487233333333343,14

@@ -1,0 +1,14 @@
+Metric,Value
+Dataset Name,Individual Household Electric Power Consumption
+Total Records,2075259
+Total Columns,10
+Total Missing Values,181853
+Total Duplicate Records,0
+Numerical Features,7
+Categorical/Text Features,2
+Datetime Features,1
+Starting Date,2006-12-16 17:24:00
+Ending Date,2010-11-26 21:02:00
+Average Active Power (kW),1.0916150365006245
+Maximum Active Power (kW),11.122
+Minimum Active Power (kW),0.076

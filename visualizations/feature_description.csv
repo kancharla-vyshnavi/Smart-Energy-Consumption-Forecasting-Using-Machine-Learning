@@ -1,0 +1,10 @@
+Feature,Description
+Date,Date of electricity measurement
+Time,Time of electricity measurement
+Global_active_power,Global active power (kW)
+Global_reactive_power,Global reactive power (kW)
+Voltage,Average voltage (V)
+Global_intensity,Average current intensity (A)
+Sub_metering_1,Kitchen electricity consumption (Wh)
+Sub_metering_2,Laundry electricity consumption (Wh)
+Sub_metering_3,Water heater and AC electricity consumption (Wh)

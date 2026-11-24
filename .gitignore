@@ -1,0 +1,31 @@
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Large files excluded from GitHub
+dataset/cleaned_energy_consumption.csv
+dataset/household_power_consumption.txt
+models/random_forest_model.pkl

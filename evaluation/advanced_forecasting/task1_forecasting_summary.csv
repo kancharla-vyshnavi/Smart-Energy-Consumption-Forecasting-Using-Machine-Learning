@@ -1,0 +1,8 @@
+Item,Result
+Forecasting methods,"ARIMA, SARIMA, Prophet"
+Aggregation frequency,Daily energy consumption (kWh)
+Training observations,354
+Testing observations,89
+Best initial model before tuning,ARIMA
+Initial best model RMSE,10.6756
+Initial best model MAE,9.6891
