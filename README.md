@@ -547,6 +547,10 @@ B.Tech – Artificial Intelligence
 
 ---
 
+## 🌐 Live Website
+
+https://smart-energy-consumption-forecasting-using-machine-learning-lz.streamlit.app/
+
 <p align="center">
   <strong>⚡ SMART ENERGY CONSUMPTION FORECASTING</strong>
   <br/>
