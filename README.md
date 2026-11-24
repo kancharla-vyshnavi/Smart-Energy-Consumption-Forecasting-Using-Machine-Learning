@@ -1,4 +1,3 @@
-﻿# Smart-Energy-Forecasting
 # Smart Energy Consumption Forecasting Using Machine Learning
 
 <p align="center">
