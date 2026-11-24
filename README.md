@@ -1,4 +1,4 @@
-# Smart Energy Consumption Forecasting Using Machine Learning
+# ⚡ Smart Energy Consumption Forecasting Using Machine Learning
 
 <p align="center">
   <strong>An End-to-End Machine Learning System for Energy Consumption Analysis, Forecasting and Intelligent Recommendations</strong>
@@ -527,6 +527,10 @@ This project demonstrates practical implementation of:
 
 ---
 
+## 👩‍💻 17. Author
+
+**Vyshnavi**
+
 B.Tech – Artificial Intelligence
 
 **GitHub:** [@kancharla-vyshnavi](https://github.com/kancharla-vyshnavi)
@@ -535,7 +539,7 @@ B.Tech – Artificial Intelligence
 
 ---
 
-## 🙏 17. Acknowledgements
+## 🙏 18. Acknowledgements
 
 - **UCI Machine Learning Repository** – Individual Household Electric Power Consumption dataset.
 - **Open-Meteo** – Historical weather data.
